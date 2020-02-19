@@ -5,4 +5,4 @@ would like to build skills and contribute
 (orange coin good) or related open source projects
 ux, privacy, education, layers, reputation
 safe storage, and a better future
-actively learning python, thanks Mosh!
+actively learning python!
